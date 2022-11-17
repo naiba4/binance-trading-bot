@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/chrisleekr/binance-traiding-bot#readme",
   "dependencies": {
-    "@bull-board/api": "^4.2.2",
+    "@bull-board/api": "^4.6.1",
     "@bull-board/express": "^4.2.2",
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
