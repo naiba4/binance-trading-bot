@@ -1,5 +1,5 @@
 # It must use alpine3.12; otherwise, it won't work in Raspberry Pi 32bit.
-FROM python:3-alpine3.12
+FROM python:3.12.0b4-slim
 
 WORKDIR /app
 
