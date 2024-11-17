@@ -38,7 +38,7 @@
   "homepage": "https://github.com/chrisleekr/binance-traiding-bot#readme",
   "dependencies": {
     "@bull-board/api": "^4.2.2",
-    "@bull-board/express": "^4.2.2",
+    "@bull-board/express": "^6.4.1",
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "binance-api-node": "^0.11.43",
@@ -88,7 +88,7 @@
     "babel-plugin-lodash": "^3.3.4",
     "babel-preset-env": "^1.7.0",
     "branch-name-lint": "^2.1.1",
-    "eslint": "^8.16.0",
+    "eslint": "^9.15.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-react-app": "^7.0.1",
