@@ -45,7 +45,7 @@
     "bull": "^4.8.5",
     "bunyan": "^1.8.15",
     "clean-webpack-plugin": "^4.0.0",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "config": "^3.3.7",
     "cors": "^2.8.5",
     "cron": "^2.0.0",
